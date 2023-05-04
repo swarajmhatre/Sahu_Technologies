@@ -18,7 +18,7 @@ function Sidebar() {
                                 <img className="img-fluid w-100" src="img/news1.jpg" style={{objectFit: 'cover'}}/>
                                 <div className="bg-white border border-top-0 p-4">
                                     <div className="mb-2">
-                                        <a className="badge badge-primary text-uppercase font-weight-semi-bold p-2 mr-2"
+                                        <a className="badge badge-primary text-uppercase text-dark font-weight-semi-bold p-2 mr-2"
                                             href="">Business</a>
                                         <a className="text-body" href=""><small>Jan 01, 2045</small></a>
                                     </div>
